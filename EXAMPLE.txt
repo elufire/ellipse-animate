@@ -1,1 +1,1 @@
-Go to: elufire.github.io/ellipse-animate
+For demonstration go to: elufire.github.io/ellipse-animate
